@@ -18,3 +18,7 @@ The data is stored in a local text file (`data.txt`) and is updated with each tr
 2. Compile the code with:
    ```bash
    g++ -o BankManagementSystem main.cpp
+3. Run the Program
+    ```bash
+   ./BankManagementSystem
+
